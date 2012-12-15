@@ -1,6 +1,8 @@
 REVERSE SPACE INVADERS
 -------------
-Info....
+This game is written for a 48 hours compo (http://www.ludumdare.com/compo/)
+Ludum Dare 25 - December 14th-17th, 2012 - Theme: You are the Villain
+You play the alien, now get those humans!
 
 Installation
 -------------
