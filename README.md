@@ -36,7 +36,7 @@ Screenshots
 
 How to play
 -------------
-Move with arrow keys,
+Move with arrow keys, shoot with space
 
 Credit
 -------------
