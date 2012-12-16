@@ -26,11 +26,13 @@ to hear from anyone who decide to create a new version of the game.
 
 Where to play
 -------------
-http://play.svenardo.com/rsi
+http://play.svenardo.com/outerspace/
+
+(more games: http://www.svenardo.com/games) 
 
 Screenshots 
 -------------
-Coming..
+<img src="http://www.svenardo.com/images/scaliens.png">
 
 How to play
 -------------
